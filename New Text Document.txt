@@ -1,0 +1,30 @@
+https://www.youtube.com/watch?v=M-98YzSUon4   598 sbi
+
+https://www.youtube.com/watch?v=OlTxr6EKKS4 redux
+
+https://www.youtube.com/watch?v=v2CFJGfUIgQ&t=861s
+npm install -g json-server
+json-server --watch db.json --port 9000
+
+https://www.youtube.com/watch?v=EHTWMpD6S_0
+
+
+12
+2
+4
+8
+6
+1
+not open
+
+7
+
+not open
+
+6
+
+3
+
+
+
+

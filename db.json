@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "fname": "Sharda12222w1",
+      "lname": "Shukla4444",
+      "email": "sharda.prasad@gmail.com",
+      "password": "11",
+      "cpassword": "11",
+      "profilePicture": "https://rukminim1.flixcart.com/image/300/300/l51d30w0/shoe/z/w/c/10-mrj1914-10-aadi-white-black-red-original-imagft9k9hydnfjp.jpeg?q=70",
+      "id": 1
+    },
+    {
+      "fname": "shardaShukla",
+      "lname": "33",
+      "email": "test.1@gmail.com",
+      "password": "123456",
+      "cpassword": "123456",
+      "profilePicture": "https://5.imimg.com/data5/KC/PC/MY-38629861/dummy-chronograph-watch-500x500.jpg",
+      "id": 2
+    },
+    {
+      "fname": "sharda",
+      "lname": "shukla",
+      "email": "teast.2@gmail.com",
+      "password": "123456",
+      "cpassword": "123456",
+      "profilePicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq39iB_cO6uhZ59vubrqVuYTJQH-4Qa0hU9g&usqp=CAU",
+      "id": 3
+    },
+    {
+      "fname": "pankaj",
+      "lname": "shukla",
+      "email": "sharda.prasad1@gmail.com",
+      "password": "6543prasad121",
+      "cpassword": "654321",
+      "id": 4
+    }
+  ],
+  "cart": []
+}
